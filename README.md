@@ -16,14 +16,14 @@ Before you start, here's what you need to note.
 * Start by combing through the questions and the tags to find questions that are frequently asked, in the topic that you are passionate about.
 * Refer to [briefing notes]
 * <b>Important</b> - Once you decide on the question to address and answer, create your script. Please follow [sample script].
-* <b>Important</b> - Provide still images that will accompany your script. Follow [requirements].
+* <b>Important</b> - Provide still images that will accompany your script. Follow requirements below.
 * Complete Call for Content form [here](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.
-Please note that submissions are subjected to Microsoft Q&A's team approval and creators with selected submissions will be notified via email before content is published on the site. 
+Please note that submissions are subjected to Microsoft Q&A's team approval and creators with selected submissions will be notified via email before content is published on the site.
 
 ## Creator's resources
-Requirements  
+Requirements and samples 
 * [Sample script] to follow 
-* Still images 1980 x 1020 <Link to sample> - Ensure that there are no private and vital information e.g. IP addresses, URLs etc. 
+* [Sample still images] 1980 x 1020 - Ensure that there are no private and vital information e.g. IP addresses, URLs etc.
 * Videos screen captures 1980 x 1020 
 
 ### Contributing
