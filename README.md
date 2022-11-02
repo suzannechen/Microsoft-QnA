@@ -1,7 +1,7 @@
 # Microsoft Q&A
 ![Microsoft Q&A banner](./media/web-banner-header.png)
 
-Have you ever searched online for a solution to a tech problem that you have, and wished that you could have easily gotten the answer from a short video instead having to comb through countless pages? 
+Have you ever searched online for a solution to a tech problem that you have, and wished that you could have easily gotten the answer from a short video instead having to comb through countless pages?
 
 <b> We feel the same, and YOU can now make a difference.</b> 
 
@@ -22,9 +22,9 @@ Please note that submissions are subjected to Microsoft Q&A's team approval and 
 
 ## Creator's resources
 Requirements  
-1. [Sample script] to follow 
-2. Still images 1980 x 1020 <Link to sample> - Ensure that there are no private and vital information e.g. IP addresses, URLs etc. 
-3. Videos screen captures 1980 x 1020 
+* [Sample script] to follow 
+* Still images 1980 x 1020 <Link to sample> - Ensure that there are no private and vital information e.g. IP addresses, URLs etc. 
+* Videos screen captures 1980 x 1020 
 
 ### Contributing
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
