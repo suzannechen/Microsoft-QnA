@@ -15,19 +15,25 @@ Before you start, here's what you need to note.
 * Visit [Microsoft Q&A](https://aka.ms/MicrosoftQuestionsandAnswers)
 * Start by combing through the questions and the tags to find questions that are frequently asked, in the topic that you are passionate about.
 * Refer to [briefing notes]
-* <b>Important</b> - Once you decide on the question to address and answer, create your script. Please follow [sample script].
+* <b>Important</b> - Once you decide on the question to address and answer, create your script. Refer to sample script and use the template script found in the <b>Creator's resources</b> below.
 * <b>Important</b> - Provide still images that will accompany your script. Follow requirements below.
-* Complete Call for Content form [here](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.
-Please note that submissions are subjected to Microsoft Q&A's team approval and creators with selected submissions will be notified via email before content is published on the site.
+* Complete [Call for Content form](https://forms.office.com/r/RMXR9TbVbe) to inform us to submit your content.
+  
+<i> Please note that submissions are subjected to Microsoft Q&A's team approval. Creators with shortlisted submissions will be notified via email before content is published on the site.</i>
 
 ## Creator's resources
-Requirements and samples 
-* [Sample script] to follow 
-* [Template script](./media/questions-and-answers-template.docx) to complete
-* [Sample still images] 1980 x 1020 - Ensure that there are no private and vital information e.g. IP addresses, URLs etc.
-* Videos screen captures 1980 x 1020 
+Here are some resources that you may find helpful. 
+### Samples
+* [Sample script](./asset/sample/questions-and-answers-sample.docx) to follow - Here we demonstrate steps to execute and executable in Azure
+* [Sample still image](./media/sample-azportal-kudupath.png) in 1980 x 1020
 
-### Contributing
+### Requirements  
+
+* [Template script](./asset/template/questions-and-answers-template.docx) to complete
+* Videos screen captures in 1980 x 1020 - Please ensure that there are no private and vital information e.g. IP addresses, URLs etc.
+
+<br></br>
+##### Contributing
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
 When you submit a pull request, a CLA bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions provided by the bot. You will only need to do this once across all repos using our CLA.
