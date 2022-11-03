@@ -23,6 +23,7 @@ Please note that submissions are subjected to Microsoft Q&A's team approval and 
 ## Creator's resources
 Requirements and samples 
 * [Sample script] to follow 
+* [Template script](./media/questions-and-answers-template.docx) to complete
 * [Sample still images] 1980 x 1020 - Ensure that there are no private and vital information e.g. IP addresses, URLs etc.
 * Videos screen captures 1980 x 1020 
 
